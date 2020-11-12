@@ -15,10 +15,10 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 5em;
+    font-size: 8em;
 }
 
-section:nth-child(even) {
+.section.content.bg1, .section.content.bg3,  .section.content.bg5 {
     background-image:url('https://images.pexels.com/photos/3489391/pexels-photo-3489391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
     background-size: cover;
     color: white;
