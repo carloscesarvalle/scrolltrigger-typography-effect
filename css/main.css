@@ -18,7 +18,7 @@ section {
     font-size: 8em;
 }
 
-.section.content.bg1, .section.content.bg3,  .section.content.bg5 {
+.section.content.bg1, .section.content.bg3 {
     background-image:url('https://images.pexels.com/photos/3489391/pexels-photo-3489391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
     background-size: cover;
     color: white;
